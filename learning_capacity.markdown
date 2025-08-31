@@ -13,17 +13,18 @@ permalink: /learning_capacity/
   </div>
     <div class="mt-3 animate-in">
       <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">
-        <a href="ffrm.github.io/coming_soon.md" class="text-dark font-weight-bold" style="text-decoration: none;">
           <strong>📘 Aiming for Open University New Course Launch Soon</strong>
         </a>
       </h3>
-      <!--->
+      <!---
       <p class="animate-in" style="font-size: 0.95rem;".</p>
       <p class="animate-in">
         <a href="https://www.open.edu/openlearncreate/course/view.php?id=13558" class="btn btn-outline-light">Access Here →</a>
       </p>
     </div>
+--->
 
+<!---
     <div class="mt-3 animate-in">
       <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">📦 Starter Data Kits</h3>
       <p class="animate-in" style="font-size: 0.95rem;">Take your skills to the next level by modelling a zero-order representation of your country using specially designed national data packages adapted for OSeMOSYS.</p>
@@ -83,8 +84,9 @@ permalink: /learning_capacity/
         </div>
         {% endfor %}
       </div>
-
-      <!-- EMP-Adjacent Events -->
+-->
+<!--
+      <!-- EMP-Adjacent Events 
       <div class="clearfix gutter-spacious">
         <div class="col-md-12 animate-in mb-4">
           <h3 class="alt-h3 mb-3">EMP-Adjacent Events</h3>
@@ -100,8 +102,8 @@ permalink: /learning_capacity/
 
     <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">🛠️ Flatpack Program</h3>
     <p class="animate-in" style="font-size: 0.95rem;">Content to be updated soon.</p>
---->
-
+  
+  -->
   </div>
 </section>
 
