@@ -1,52 +1,44 @@
 ---
 theme: jekyll-theme-primer
 layout: sub-page
-title: OSeMOSYS
+title: FFRM
 permalink: /applications/
 ---
 <section class="bg-gray-light container-lg p-responsive py-4 py-md-6 my-lg-6 fade-in-center">
   <div class="text-center fade-in-center">
-    <h2 class="alt-h2 mb-4">OSeMOSYS Applications</h2>
+    <h2 class="alt-h2 mb-4">FFRM Applications</h2>
   </div>
 
   <div class="applications-content text-left">
-    <p class="lead mb-4">OSeMOSYS is a fundamental building block for a wide range of applications across government, industry, and academia. Several examples include:</p>
+    <p class="lead mb-4">FFRM is a useful tool for assessing the stranded cost implications that may arise as a country decarbonizes its electricity sector. The model was originally developed by the World Bank to assess stranded cost under various defined scenarios, with its most recent application in exploring the stranded cost implications of decarbonizing India and the Philippines power sector. </p>
 
-    <div class="applications-grid">
+    <!--
+     <div class="applications-grid">
       <div class="application-category">
         <h3 class="category-title">Governments</h3>
         <ul class="application-list">
           <li><a href="https://energypedia.info/wiki/LTEM_-_Energy_Department_of_the_Cyprus_Institute">National Energy and Climate Plan in Cyprus</a></li>
-          <li><a href="https://www.wri.org/research/costos-y-beneficios-de-la-descarbonizacion-de-la-economia-de-costa-rica-evaluacion-del-plan-nacional-de-descarbonizacion-bajo-incertidumbre.pdf">National Decarbonization Plan in Costa Rica</a></li>
-          <li><a href="https://www.afd.fr/es/actualites/ecuador-construye-su-camino-hacia-la-descarbonizacion">National Climate Change Mitigation Plan in Ecuador</a></li>
-          <li><a href="https://www.rvo.nl/sites/default/files/2023-06/Report-Final-Draft_Signed-01-1.pdf">Green Hydrogen and Ammonia Roadmap in Lao PDR</a></li>
-        </ul>
+        </ul>  
       </div>
 
       <div class="application-category">
         <h3 class="category-title">Industry and Think Tanks</h3>
         <ul class="application-list">
           <li><a href="https://www.globalccsinstitute.com/wp-content/uploads/2021/10/genzo1123.pdf">Global CCS Institute</a></li>
-          <li><a href="https://www.kapsarc.org/research/projects/kosemosys/">King Abdullah Petroleum Studies and Research Center</a></li>
-          <li><a href="https://www.seforall.org/news/driving-to-the-outcomes-with-an-ecosystem-approach">Sustainable Energy for All</a></li>
-          <li><a href="https://github.com/transition-zero/tz-osemosys">Transition Zero – TZ-OSeMOSYS</a></li>
         </ul>
       </div>
 
       <div class="application-category">
         <h3 class="category-title">Academia</h3>
         <ul class="application-list">
-          <li><a href="https://kth.diva-portal.org/smash/get/diva2:1576316/FULLTEXT01.pdf">Politecnico di Milano – Long-term energy planning with highly-detailed demand modelling for Egypt</a></li>
-          <li><a href="https://kth.diva-portal.org/smash/get/diva2:1576316/FULLTEXT01.pdf">KTH – Hydrogen and electricity system dynamics in the Nordic region</a></li>
-          <li><a href="https://www.lboro.ac.uk/research/steer/research/themes/systems-analysis/">Loughborough University – STEER Centre for Sustainable Transitions</a></li>
-          <li><a href="https://spiral.imperial.ac.uk/handle/10044/1/104682">Imperial College London – Energy security modelling in Armenia</a></li>
+          <li><a href="https://kth.diva-portal.org/smash/get/diva2:1576316/FULLTEXT01.pdf">Politecnico di Milano – 
         </ul>
       </div>
     </div>
   </div>
 </section>
 
-<section class="container-lg p-responsive py-4 py-md-6 my-lg-6">
+ <section class="container-lg p-responsive py-4 py-md-6 my-lg-6">
   <div class="text-center mb-5">
     <h2 class="alt-h2">Specialist versions of the tool</h2>
   </div>
@@ -88,6 +80,7 @@ permalink: /applications/
 
   <div class="slider-dots text-center mt-3" id="sliderDots"></div>
 </section>
+-->
 
 <section class="container-lg p-responsive py-4 py-md-6 my-lg-6">
   <div class="recommended-reading">

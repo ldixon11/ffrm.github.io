@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-primer
 layout: sub-page
-title: OSeMOSYS
+title: FFRM
 permalink: /learning_capacity/
 ---
 

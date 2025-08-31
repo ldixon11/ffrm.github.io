@@ -1,84 +1,11 @@
 # Partner institutions for homepage display
-partners:
-  - name: afdb
-    logo: /assets/img/partners/afdb.png
-    display_name: African Development Bank
-    url: https://www.afdb.org/
-    
-  - name: european-commission
-    logo: /assets/img/partners/european-commission.png
-    display_name: European Commission
-    url: https://ec.europa.eu/
-    
-  - name: iaea
-    logo: /assets/img/partners/iaea.png
-    display_name: IAEA
-    url: https://www.iaea.org/
-    
-  - name: irena
-    logo: /assets/img/partners/irena.png
-    display_name: IRENA
-    url: https://www.irena.org/
-    
-  - name: kth
-    logo: /assets/img/partners/kth.png
-    display_name: KTH Royal Institute of Technology
-    url: https://www.kth.se/en
-    
-  - name: ncsu
-    logo: /assets/img/partners/ncsu.png
-    display_name: North Carolina State University
-    url: https://www.ncsu.edu/
-    
-  - name: psi
-    logo: /assets/img/partners/psi.png
-    display_name: Paul Scherrer Institute
-    url: https://www.psi.ch/
-    
-  - name: sei
-    logo: /assets/img/partners/sei.png
-    display_name: Stockholm Environment Institute
-    url: https://www.sei.org/
-    
-  - name: sfu
-    logo: /assets/img/partners/sfu.png
-    display_name: Simon Fraser University
-    url: https://www.sfu.ca/
-    
-  - name: stanford
-    logo: /assets/img/partners/stanford.png
-    display_name: Stanford University
-    url: https://www.stanford.edu/
-    
-  - name: ucl
-    logo: /assets/img/partners/ucl.png
-    display_name: University College London
-    url: https://www.ucl.ac.uk/
-    
-  - name: uct
-    logo: /assets/img/partners/uct.png
-    display_name: University of Cape Town
-    url: https://www.uct.ac.za/
-    
-  - name: undesa
-    logo: /assets/img/partners/undesa.png
-    display_name: UN DESA
-    url: https://www.un.org/development/desa/
-    
-  - name: unido
-    logo: /assets/img/partners/unido.png
-    display_name: UNIDO
-    url: https://www.unido.org/
     
   - name: worldbank
-    logo: /assets/img/partners/worldbank.png
+    logo: /assets/img/partners/worldbank1.png
     display_name: World Bank Group
     url: https://www.worldbank.org/
     
-  - name: wwf
-    logo: /assets/img/partners/wwf.png
-    display_name: World Wildlife Fund
-    url: https://www.worldwildlife.org/
+  
 
 # Organization members/contributors (legacy - can be moved to separate file if needed)
 organizations:
@@ -149,3 +76,73 @@ organizations:
     height: 50
     display_name: University of Cambridge
     url: "/coming-soon" 
+
+  - name: afdb
+    logo: /assets/img/partners/afdb.png
+    display_name: African Development Bank
+    url: https://www.afdb.org/
+    
+  - name: european-commission
+    logo: /assets/img/partners/european-commission.png
+    display_name: European Commission
+    url: https://ec.europa.eu/
+    
+  - name: iaea
+    logo: /assets/img/partners/iaea.png
+    display_name: IAEA
+    url: https://www.iaea.org/
+    
+  - name: irena
+    logo: /assets/img/partners/irena.png
+    display_name: IRENA
+    url: https://www.irena.org/
+    
+  - name: kth
+    logo: /assets/img/partners/kth.png
+    display_name: KTH Royal Institute of Technology
+    url: https://www.kth.se/en
+    
+  - name: ncsu
+    logo: /assets/img/partners/ncsu.png
+    display_name: North Carolina State University
+    url: https://www.ncsu.edu/
+    
+  - name: psi
+    logo: /assets/img/partners/psi.png
+    display_name: Paul Scherrer Institute
+    url: https://www.psi.ch/
+    
+  - name: sei
+    logo: /assets/img/partners/sei.png
+    display_name: Stockholm Environment Institute
+    url: https://www.sei.org/
+    
+  - name: sfu
+    logo: /assets/img/partners/sfu.png
+    display_name: Simon Fraser University
+    url: https://www.sfu.ca/
+    
+  - name: stanford
+    logo: /assets/img/partners/stanford.png
+    display_name: Stanford University
+    url: https://www.stanford.edu/
+    
+  - name: ucl
+    logo: /assets/img/partners/ucl.png
+    display_name: University College London
+    url: https://www.ucl.ac.uk/
+    
+  - name: uct
+    logo: /assets/img/partners/uct.png
+    display_name: University of Cape Town
+    url: https://www.uct.ac.za/
+    
+  - name: undesa
+    logo: /assets/img/partners/undesa.png
+    display_name: UN DESA
+    url: https://www.un.org/development/desa/
+    
+  - name: unido
+    logo: /assets/img/partners/unido.png
+    display_name: UNIDO
+    url: https://www.unido.org/
