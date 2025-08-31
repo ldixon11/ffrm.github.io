@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-primer
 layout: sub-page
-title: OSeMOSYS
+title: FFRM
 permalink: /contact/
 ---
 
@@ -15,7 +15,8 @@ permalink: /contact/
     <div class="involvement-section mb-5">
       <h3 class="section-title text-center mb-4">💬 Join Our Community</h3>
       
-      <!-- Discourse Link at the start -->
+      <!-- Discourse Link at the start
+      --> 
       <div class="text-center mb-4">
         <a href="https://forum.u4ria.org/" target="_blank" class="btn btn-primary btn-lg">
           Visit the Discourse Forum →
@@ -23,7 +24,7 @@ permalink: /contact/
       </div>
 
       <p class="text-center lead mb-4">
-        Join other OSeMOSYS practitioners by becoming part of our Discourse community—a dedicated online space for collaboration, learning, and sharing.
+        Join other FFRM practitioners by becoming part of our Discourse community—a dedicated online space for collaboration, learning, and sharing.
       </p>
 
       <!-- Centered platform benefits -->
@@ -35,7 +36,7 @@ permalink: /contact/
         <div class="benefit-card text-center">
           {% octicon tools height:40 class:"fill-blue mb-3" aria-label:tools %}
           <h5>Troubleshoot Models</h5>
-          <p class="text-gray">Share challenges, seek advice, and collaborate with other users to overcome technical hurdles in your OSeMOSYS applications.</p>
+          <p class="text-gray">Share challenges, seek advice, and collaborate with other users to overcome technical hurdles in your FFRM applications.</p>
         </div>
         <div class="benefit-card text-center">
           {% octicon checklist height:40 class:"fill-blue mb-3" aria-label:checklist %}
@@ -56,7 +57,7 @@ permalink: /contact/
       
       <div class="github-container">
         <div class="unified-github-card text-center">
-          <a href="https://github.com/OSeMOSYS" target="_blank" class="github-link">
+          <a href=" https://github.com/FossilFuelRetirementModel/ffrm_python" target="_blank" class="github-link">
             <svg height="80" viewBox="0 0 16 16" version="1.1" width="80" aria-hidden="true" class="mb-3">
               <path fill-rule="evenodd" fill="#0366d6" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 
               6.53 5.47 7.59.4.07.55-.17.55-.38 
@@ -72,23 +73,23 @@ permalink: /contact/
               2.2 0 .21.15.46.55.38A8.013 8.013 
               0 0016 8c0-4.42-3.58-8-8-8z"></path>
             </svg>
-            <h4 class="text-primary mt-2 mb-4">Contribute to OSeMOSYS on GitHub</h4>
+            <h4 class="text-primary mt-2 mb-4">Contribute to FFRM on GitHub</h4>
           </a>
           
           <div class="contribution-section text-left">
             <h5>Contribute to This Website</h5>
             <p>
-              Want to share your OSeMOSYS-related work, training, or resources? We welcome external contributions to this site!
+              Want to share your FFRM-related work, training, or resources? We welcome external contributions to this site!
             </p>
             <h6>How to contribute:</h6>
             <ul class="contribution-steps">
-              <li>Fork the repository: <a href="https://github.com/OSeMOSYS" target="_blank">github.com/OSeMOSYS</a></li>
+              <li>Fork the repository: <a href=" https://github.com/FossilFuelRetirementModel/ffrm_python" target="_blank">github.com/FossilFuelRetirementModel/ffrm_python </a></li>
               <li>Edit or add content (e.g. publications, capacity building activities)</li>
               <li>Submit a pull request</li>
               <li>A site administrator will review and approve if appropriate</li>
             </ul>
             <p class="text-muted">
-              This website exists to grow a self-sustaining OSeMOSYS community—open to all. Let's make sure your work is visible and contributes to the global ecosystem!
+              This website exists to grow a self-sustaining FFRM community—open to all. Let's make sure your work is visible and contributes to the global ecosystem!
             </p>
           </div>
         </div>

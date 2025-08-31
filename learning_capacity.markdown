@@ -13,11 +13,12 @@ permalink: /learning_capacity/
   </div>
     <div class="mt-3 animate-in">
       <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">
-        <a href="https://www.open.edu/openlearncreate/course/view.php?id=13558" class="text-dark font-weight-bold" style="text-decoration: none;">
-          <strong>📘 Open University Course on Energy System Modelling using OSeMOSYS</strong>
+        <a href="ffrm.github.io/coming_soon.md" class="text-dark font-weight-bold" style="text-decoration: none;">
+          <strong>📘 Aiming for Open University New Course Launch Soon</strong>
         </a>
       </h3>
-      <p class="animate-in" style="font-size: 0.95rem;">This comprehensive course provides students with a strong foundation in energy system modelling using OSeMOSYS (Open Source Energy Modelling System).</p>
+      <!--->
+      <p class="animate-in" style="font-size: 0.95rem;".</p>
       <p class="animate-in">
         <a href="https://www.open.edu/openlearncreate/course/view.php?id=13558" class="btn btn-outline-light">Access Here →</a>
       </p>
@@ -99,6 +100,7 @@ permalink: /learning_capacity/
 
     <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">🛠️ Flatpack Program</h3>
     <p class="animate-in" style="font-size: 0.95rem;">Content to be updated soon.</p>
+--->
 
   </div>
 </section>
